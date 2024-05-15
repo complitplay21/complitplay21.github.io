@@ -21,7 +21,7 @@ btn1.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 1");
+		tg.MainButton.setText("You chose Burger");
 		item = "1";
 		tg.MainButton.show();
 	}
@@ -32,7 +32,7 @@ btn2.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 2");
+		tg.MainButton.setText("You chose Coke");
 		item = "2";
 		tg.MainButton.show();
 	}
@@ -43,7 +43,7 @@ btn3.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 3");
+		tg.MainButton.setText("You chose French Fries");
 		item = "3";
 		tg.MainButton.show();
 	}
@@ -54,7 +54,7 @@ btn4.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 4");
+		tg.MainButton.setText("You chose Hot Dog");
 		item = "4";
 		tg.MainButton.show();
 	}
@@ -65,7 +65,7 @@ btn5.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 5");
+		tg.MainButton.setText("You chose Lavash");
 		item = "5";
 		tg.MainButton.show();
 	}
@@ -76,7 +76,7 @@ btn6.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 6");
+		tg.MainButton.setText("You chose Shawarma");
 		item = "6";
 		tg.MainButton.show();
 	}
@@ -87,7 +87,7 @@ btn6.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 7");
+		tg.MainButton.setText("You chose Chicken");
 		item = "7";
 		tg.MainButton.show();
 	}
@@ -98,7 +98,7 @@ btn6.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("You chose product 8");
+		tg.MainButton.setText("You chose Sauce");
 		item = "8";
 		tg.MainButton.show();
 	}
